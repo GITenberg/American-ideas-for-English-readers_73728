@@ -1,0 +1,42 @@
+_repo: American-ideas-for-English-readers_73728
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Stone, Henry
+    gutenberg_agent_id: '57174'
+    url: http://www.gutenberg.org/2009/agents/57174
+creator:
+  author:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: https://en.wikipedia.org/wiki/James_Russell_Lowell
+description: Eleven addresses delivered in England from November 6, 1880, to November
+  23, 1888.
+gutenberg_issued: '2024-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73728'
+language: en
+pgterms:marc904: https://archive.org/details/americanideas00lowerich/page/n11/mode/2up
+pgterms:marc905: 20211014213229lowell
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: Carol Brown, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bJ. G. Cupples Co., $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcc 'PS'
+- GITenberg
+title: American ideas for English readers
+url: http://www.gutenberg.org/ebooks/73728
