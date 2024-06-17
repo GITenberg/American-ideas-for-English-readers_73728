@@ -5,6 +5,9 @@ contributor:
     agent_name: Stone, Henry
     gutenberg_agent_id: '57174'
     url: http://www.gutenberg.org/2009/agents/57174
+covers:
+- cover_type: archival
+  image_path: 73728-h/images/cover.jpg
 creator:
   author:
     agent_name: Lowell, James Russell
@@ -18,6 +21,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/James_Russell_Lowell
 description: Eleven addresses delivered in England from November 6, 1880, to November
   23, 1888.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73728#American-ideas-for-English-readers
 gutenberg_issued: '2024-05-29'
 gutenberg_type: Text
 identifiers:
